@@ -24,9 +24,7 @@
 
   ●	Similarity: на основе https://github.com/EloiZ/embedding_evaluation/tree/master/data
   
-    Используются датасеты: MEN, WordSim-353, Verb-143.
-    
-    Нормальная корреляция только с ws353.
+   Используются датасеты: MEN, WordSim-353, Verb-143. Нормальная корреляция только с ws353.
     
   ●	Pos Tagging: логрег на данных conll2000
     
