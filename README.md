@@ -1,8 +1,8 @@
 1. <b> Архитектура: </b>
   SkipGram Hierarchical Softmax
 2. <b> Функции: </b>
-  ●	fit(documents: List(List(String))) -> None
-  ●	get_words() -> List(String) - словарь
+  \n ●	fit(documents: List(List(String))) -> None
+  \n ●	get_words() -> List(String) - словарь
   ●	get_emb(word: String) -> np.ndarray - получение эмбеддинга
   ●	get_similar(word: String,  k:Int) -> List(String) - список ближайших слов (синонимы)
   ●	save_state(path: String)
