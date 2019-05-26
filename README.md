@@ -26,8 +26,9 @@
   
    Используются датасеты: MEN, WordSim-353, Verb-143. Нормальная корреляция только с ws353.
     
-  ●	Pos Tagging: логрег на данных conll2000
+  ●	Pos Tagging: логрег на данных conll2000  
+  
+   Используются датасеты: MEN, WordSim-353, Verb-143. Нормальная корреляция только с ws353.
     
 5. <b> Красивая картинка: </b>
-
 ![image](https://user-images.githubusercontent.com/20374616/58386813-fda6ad80-800d-11e9-8eff-cd8d8d14aca8.png)
