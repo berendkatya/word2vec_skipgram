@@ -34,4 +34,5 @@
     
 5. <b> Красивые картинки: </b>
 ![image](https://user-images.githubusercontent.com/20374616/58386813-fda6ad80-800d-11e9-8eff-cd8d8d14aca8.png)
-![image](https://user-images.githubusercontent.com/20374616/58388149-7f550600-8023-11e9-92ba-3bf444080526.png)
+![image](https://user-images.githubusercontent.com/20374616/58388194-58e39a80-8024-11e9-8b5d-f89896711f93.png)
+![image](https://user-images.githubusercontent.com/20374616/58388263-69484500-8025-11e9-9d3a-10734cd85aa7.png)
